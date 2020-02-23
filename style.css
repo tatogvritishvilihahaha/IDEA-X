@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-html, body 
+body 
 {
     max-width: 100%;
     overflow-x: hidden;
@@ -19,7 +19,7 @@ body
 {
     position: sticky;
     top: 0;
-    z-index: 10;
+    z-index: 15;
 }
 
 .navbar
@@ -29,7 +29,7 @@ body
 }
 .navbar-brand img
 {
-    height: 100px;
+    height: 60px;
     padding-left: 5px;
 }
 
@@ -169,15 +169,15 @@ body
 
 #about-us h5
 {
-    padding-left: 10px;
+    padding-left: 20px;
 }
-
-
-
 
 #why
 {
     padding-left: 20px;
 }
+
+
+
 
 
