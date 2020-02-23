@@ -35,7 +35,7 @@ body
 
 .navbar-nav li 
 {
-    padding: 0px 15px 0px 0px;
+    padding: 0px 20px 0px 0px;
     
 }
 
@@ -50,8 +50,9 @@ body
 .fa-bars
 {
     color: #fff;
-    font-size: 35px !important;
-    margin-right: 5px;
+    font-size: 30px !important;
+    margin-right: 10px;
+    border-color: none;
 }
 
 .navbar-toggler
@@ -90,7 +91,7 @@ body
 
 #action1
 {
-    height: 400px;
+    height: 350px;
 }
 
 .bottom-img
@@ -166,3 +167,7 @@ body
     padding-top: 50px;
 }
 
+#why
+{
+    padding-left: 20px;
+}
